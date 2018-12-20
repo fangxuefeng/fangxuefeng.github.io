@@ -98,3 +98,5 @@ friends: [
         href: "http://blog.csdn.net/hzy38324"
     }
 ]
+
+theme: jekyll-theme-cayman
